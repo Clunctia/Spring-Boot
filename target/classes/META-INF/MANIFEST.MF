@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: Kasidid Course API
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Clunctia
+Specification-Vendor: Pivotal Software, Inc.
+Specification-Title: Kasidid Course API
+Implementation-Vendor-Id: io.kasidid.springbootquickstart
+Build-Jdk: 1.8.0_161
+Specification-Version: 0.0.1-SNAPSHOT
+Implementation-URL: http://projects.spring.io/spring-boot/course-api/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
